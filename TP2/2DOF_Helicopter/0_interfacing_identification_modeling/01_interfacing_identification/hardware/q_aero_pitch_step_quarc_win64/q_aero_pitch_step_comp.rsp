@@ -1,0 +1,9 @@
+﻿-IC:\Users\khanh\dev\projects\quanser_labs\TP2\2DOF_Helicopter\0_interfacing_identification_modeling\01_interfacing_identification\hardware
+-IC:\Users\khanh\dev\projects\quanser_labs\TP2\2DOF_Helicopter\0_interfacing_identification_modeling\01_interfacing_identification\hardware\q_aero_pitch_step_quarc_win64
+-I"C:\Program Files\MATLAB\R2025a\extern\include"
+-I"C:\Program Files\MATLAB\R2025a\simulink\include"
+-I"C:\Program Files\MATLAB\R2025a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2025a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2025a\toolbox\coder\rtiostream\src"
+-I"C:\Program Files\MATLAB\R2025a\toolbox\coder\rtiostream\src\utils"
+-I"C:\Program Files\Quanser\QUARC\include"
